@@ -8,9 +8,9 @@ li {
   /* background-color: yellow;  */
 }
 
-.show {
-  display: inline-block;
 
+.show {
+  display: block;
    /* background-color: #61dafb;  */
 };
 

@@ -4,19 +4,13 @@ li {
 }
 
 .hide {
-   display: none; 
-  /* background-color: yellow;  */
+   display: none;   
 }
 
 
 .show {
-  display: block;
-   /* background-color: #61dafb;  */
+  display: block;   
 };
-
-
-
-
 
 .App {
   text-align: center;
